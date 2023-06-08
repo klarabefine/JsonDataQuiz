@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "question": "What is the most popular car color in the world?",
+      "answers": [
+        {
+          "answer": "Red",
+          "is_correct": false
+        },
+        {
+          "answer": "Black",
+          "is_correct": false
+        },
+        {
+          "answer": "White",
+          "is_correct": true
+        },
+        {
+          "answer": "Blue",
+          "is_correct": false
+        },
+        {
+          "answer": "Green",
+          "is_correct": false
+        },
+        {
+          "answer": "Yellow",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
