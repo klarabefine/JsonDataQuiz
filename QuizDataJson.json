@@ -4,6 +4,8 @@
       "question": "1 +5 = ?",
       "answers": [
         {"answer": "4", "is_correct": false},
+        {"answer": "6", "is_correct": true} ,
+         {"answer": "4", "is_correct": false},
         {"answer": "6", "is_correct": true}
       ],
       "next_question_index": 1
@@ -12,7 +14,9 @@
       "question": "15 +2",
       "answers": [
         {"answer": "17", "is_correct": true},
-        {"answer": "16", "is_correct": false}
+        {"answer": "16", "is_correct": false} ,
+         {"answer": "4", "is_correct": false},
+        {"answer": "6", "is_correct": true}
       ],
       "next_question_index": 2
     },
@@ -20,7 +24,9 @@
       "question": "5 * 5",
       "answers": [
         {"answer": "10", "is_correct": false},
-        {"answer": "25", "is_correct": true}
+        {"answer": "25", "is_correct": true} ,
+         {"answer": "4", "is_correct": false},
+        {"answer": "6", "is_correct": true}
       ],
       "next_question_index": -1
     }
