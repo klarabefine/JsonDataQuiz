@@ -1,33 +1,28 @@
 {
   "questions": [
     {
-      "question": "What is the most popular car color in the world?",
+      "question": "1 +5 = ?",
       "answers": [
-        {
-          "answer": "Red",
-          "is_correct": false
-        },
-        {
-          "answer": "Black",
-          "is_correct": false
-        },
-        {
-          "answer": "White",
-          "is_correct": true
-        },
-        {
-          "answer": "Blue",
-          "is_correct": false
-        },
-        {
-          "answer": "Green",
-          "is_correct": false
-        },
-        {
-          "answer": "Yellow",
-          "is_correct": false
-        }
-      ]
+        {"answer": "4", "is_correct": false},
+        {"answer": "6", "is_correct": true}
+      ],
+      "next_question_index": 1
+    },
+    {
+      "question": "15 +2",
+      "answers": [
+        {"answer": "17", "is_correct": true},
+        {"answer": "16", "is_correct": false}
+      ],
+      "next_question_index": 2
+    },
+    {
+      "question": "5 * 5",
+      "answers": [
+        {"answer": "10", "is_correct": false},
+        {"answer": "25", "is_correct": true}
+      ],
+      "next_question_index": -1
     }
   ]
 }
