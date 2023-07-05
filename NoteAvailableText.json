@@ -1,0 +1,74 @@
+{
+  "en": {
+    "NoteAvailable_text": "Try Install this New Game!",
+    "Fade_NoteAvailable_text": "Sorry This Game Not Available, Click Install New Game!"
+  },
+  "fr": {
+    "NoteAvailable_text": "Essayez d'installer ce nouveau jeu !",
+    "Fade_NoteAvailable_text": "Désolé, ce jeu n'est pas disponible. Cliquez pour installer un nouveau jeu !"
+  },
+  "de": {
+    "NoteAvailable_text": "Versuchen Sie, dieses neue Spiel zu installieren!",
+    "Fade_NoteAvailable_text": "Entschuldigung, dieses Spiel ist nicht verfügbar. Klicken Sie, um ein neues Spiel zu installieren!"
+  },
+  "es-US": {
+    "NoteAvailable_text": "¡Intenta instalar este nuevo juego!",
+    "Fade_NoteAvailable_text": "Lo sentimos, este juego no está disponible. Haz clic para instalar un juego nuevo."
+  },
+  "it": {
+    "NoteAvailable_text": "Prova a installare questo nuovo gioco!",
+    "Fade_NoteAvailable_text": "Spiacente, questo gioco non è disponibile. Fai clic per installare un nuovo gioco!"
+  },
+  "pt": {
+    "NoteAvailable_text": "Experimente instalar este novo jogo!",
+    "Fade_NoteAvailable_text": "Desculpe, este jogo não está disponível. Clique para instalar um novo jogo!"
+  },
+  "ru-RU": {
+    "NoteAvailable_text": "Попробуйте установить эту новую игру!",
+    "Fade_NoteAvailable_text": "Извините, эта игра недоступна. Нажмите, чтобы установить новую игру!"
+  },
+  "tr": {
+    "NoteAvailable_text": "Bu yeni oyunu yüklemeyi deneyin!",
+    "Fade_NoteAvailable_text": "Üzgünüz, bu oyun mevcut değil. Yeni bir oyun yüklemek için tıklayın!"
+  },
+  "nl": {
+    "NoteAvailable_text": "Probeer dit nieuwe spel te installeren!",
+    "Fade_NoteAvailable_text": "Sorry, dit spel is niet beschikbaar. Klik om een nieuw spel te installeren!"
+  },
+  "sv": {
+    "NoteAvailable_text": "Försök att installera detta nya spel!",
+    "Fade_NoteAvailable_text": "Tyvärr, detta spel är inte tillgängligt. Klicka för att installera ett nytt spel!"
+  },
+  "no": {
+    "NoteAvailable_text": "Prøv å installere dette nye spillet!",
+    "Fade_NoteAvailable_text": "Beklager, dette spillet er ikke tilgjengelig. Klikk for å installere et nytt spill!"
+  },
+  "da": {
+    "NoteAvailable_text": "Prøv at installere dette nye spil!",
+    "Fade_NoteAvailable_text": "Beklager, dette spil er ikke tilgængeligt. Klik for at installere et nyt spil!"
+  },
+  "fi": {
+    "NoteAvailable_text": "Kokeile asentaa tämä uusi peli!",
+    "Fade_NoteAvailable_text": "Valitettavasti tämä peli ei ole saatavilla. Klikkaa asentaaksesi uuden pel"
+ },
+  "el": {
+    "NoteAvailable_text": "Δοκιμάστε να εγκαταστήσετε αυτό το νέο παιχνίδι!",
+    "Fade_NoteAvailable_text": "Λυπούμαστε, αυτό το παιχνίδι δεν είναι διαθέσιμο. Κάντε κλικ για να εγκαταστήσετε ένα νέο παιχνίδι!"
+  },
+  "cs": {
+    "NoteAvailable_text": "Zkuste nainstalovat tuto novou hru!",
+    "Fade_NoteAvailable_text": "Je nám líto, tato hra není k dispozici. Kliknutím nainstalujte novou hru!"
+  },
+  "hu": {
+    "NoteAvailable_text": "Próbálja telepíteni ezt az új játékot!",
+    "Fade_NoteAvailable_text": "Sajnáljuk, ez a játék nem elérhető. Kattintson az új játék telepítéséhez!"
+  },
+  "vi": {
+    "NoteAvailable_text": "Hãy thử cài đặt trò chơi mới này!",
+    "Fade_NoteAvailable_text": "Xin lỗi, trò chơi này không khả dụng. Nhấp để cài đặt trò chơi mới!"
+  },
+  "ms": {
+    "NoteAvailable_text": "Cuba pasang permainan baru ini!",
+    "Fade_NoteAvailable_text": "Maaf, permainan ini tidak tersedia. Klik untuk memasang permainan baru!"
+  }
+}
