@@ -16,7 +16,7 @@
       "Fade_NoteAvailable_text": "Entschuldigung, dieses Spiel ist nicht verfügbar. Klicken Sie, um ein neues Spiel zu installieren!"
     },
     {
-      "languageCode": "es-US",
+      "languageCode": "es",
       "NoteAvailable_text": "¡Intenta instalar este nuevo juego!",
       "Fade_NoteAvailable_text": "Lo sentimos, este juego no está disponible. Haz clic para instalar un juego nuevo."
     },
@@ -31,9 +31,9 @@
       "Fade_NoteAvailable_text": "Desculpe, este jogo não está disponível. Clique para instalar um novo jogo!"
     },
     {
-      "languageCode": "ru-RU",
+      "languageCode": "ru",
       "NoteAvailable_text": "Попробуйте установить эту новую игру!",
-      "Fade_NoteAvailable_text": "Извините, эта игра недоступна. Нажмите, чтобы установить новую игру!"
+      "Fade_NoteAvailable_text": "извините, эта игра неAоступна. на мите, чтобы установить новую игру!"
     },
     {
       "languageCode": "tr",
@@ -68,12 +68,22 @@
     {
       "languageCode": "el",
       "NoteAvailable_text": "Δοκιμάστε να εγκαταστήσετε αυτό το νέο παιχνίδι!",
-      "Fade_NoteAvailable_text": "Λυπούμαστε, αυτό το παιχνίδι δεν είναι διαθέσιμο. Κάντε κλικ για να εγκαταστήσετε ένα νέο παιχνίδι!"
+      "Fade_NoteAvailable_text": "Sorry This Game Not Available, Click Install New Game! "
     },
     {
-      "languageCode": "cs",
-      "NoteAvailable_text": "Zkuste nainstalovat tuto novou hru!",
-      "Fade_NoteAvailable_text": "Je nám líto, tato hra není k dispozici. Kliknutím nainstalujte novou hru!"
+        "languageCode": "cs",
+        "NoteAvailable_text": "Zkuste nainstalovat tuto novou hru!",
+        "Fade_NoteAvailable_text": "Je nám líto, tato hra není k dispozici. Kliknutím nainstalujte novou hru!"
+    },
+    {
+        "languageCode": "hu",
+        "NoteAvailable_text": "Próbálja telepíteni ezt az új játékot!",
+        "Fade_NoteAvailable_text": "Sajnáljuk, ez a játék nem elérheto. Kattintson az új játék telepítéséhez!"
+    },
+    {
+        "languageCode": "ms",
+        "NoteAvailable_text": "Cuba pasang permainan baru ini!",
+        "Fade_NoteAvailable_text": "Maaf, permainan ini tidak tersedia. Klik untuk memasang permainan baru!"
     }
   ]
 }
