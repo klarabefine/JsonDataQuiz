@@ -1,0 +1,104 @@
+{
+  "translations": [
+    {
+      "languageCode": "en",
+      "NoteAvailable_text": "Try Install this New Game!",
+      "Fade_NoteAvailable_text": "A new House Ads is Ready To Display"
+    },
+    {
+      "languageCode": "fr",
+      "NoteAvailable_text": "Essayez d'installer ce nouveau jeu !",
+      "Fade_NoteAvailable_text": "Une nouvelle annonce est prête à être affichée"
+    },
+    {
+      "languageCode": "de",
+      "NoteAvailable_text": "Versuchen Sie, dieses neue Spiel zu installieren!",
+      "Fade_NoteAvailable_text": "Ein neues House Ads ist bereit zur Anzeige"
+    },
+    {
+      "languageCode": "es",
+      "NoteAvailable_text": "¡Intenta instalar este nuevo juego!",
+      "Fade_NoteAvailable_text": "Una nueva House Ads está lista para mostrar"
+    },
+    {
+      "languageCode": "it",
+      "NoteAvailable_text": "Prova a installare questo nuovo gioco!",
+      "Fade_NoteAvailable_text": "Una nuova House Ads è pronta per essere visualizzata"
+    },
+    {
+      "languageCode": "pt",
+      "NoteAvailable_text": "Experimente instalar este novo jogo!",
+      "Fade_NoteAvailable_text": "Um novo House Ads está pronto para exibição"
+    },
+    {
+      "languageCode": "ru",
+      "NoteAvailable_text": "Попробуйте установить эту новую игру!",
+      "Fade_NoteAvailable_text": "Новая реклама готова к отображению"
+    },
+    {
+      "languageCode": "tr",
+      "NoteAvailable_text": "Bu yeni oyunu yüklemeyi deneyin!",
+      "Fade_NoteAvailable_text": "Yeni bir House Ads gösterime hazır"
+    },
+    {
+      "languageCode": "nl",
+      "NoteAvailable_text": "Probeer dit nieuwe spel te installeren!",
+      "Fade_NoteAvailable_text": "Een nieuwe House Ads staat klaar om te tonen"
+    },
+    {
+      "languageCode": "sv",
+      "NoteAvailable_text": "Försök att installera detta nya spel!",
+      "Fade_NoteAvailable_text": "En ny House Ads är redo att visas"
+    },
+    {
+      "languageCode": "no",
+      "NoteAvailable_text": "Prøv å installere dette nye spillet!",
+      "Fade_NoteAvailable_text": "En ny House Ads er klar for visning"
+    },
+    {
+      "languageCode": "da",
+      "NoteAvailable_text": "Prøv at installere dette nye spil!",
+      "Fade_NoteAvailable_text": "En ny House Ads er klar til visning"
+    },
+    {
+      "languageCode": "fi",
+      "NoteAvailable_text": "Kokeile asentaa tämä uusi peli!",
+      "Fade_NoteAvailable_text": "Uusi House Ads on valmis näytettäväksi"
+    },
+    {
+      "languageCode": "el",
+      "NoteAvailable_text": "Δοκιμάστε να εγκαταστήσετε αυτό το νέο παιχνίδι!",
+      "Fade_NoteAvailable_text": "Μια νέα διαφήμιση είναι έτοιμη για προβολή"
+    },
+    {
+      "languageCode": "cs",
+      "NoteAvailable_text": "Zkuste nainstalovat tuto novou hru!",
+      "Fade_NoteAvailable_text": "Nová reklama je připravena k zobrazení"
+    },
+    {
+      "languageCode": "hu",
+      "NoteAvailable_text": "Próbálja telepíteni ezt az új játékot!",
+      "Fade_NoteAvailable_text": "Egy új House Ads készen áll a megjelenítésre"
+    },
+    {
+      "languageCode": "ms",
+      "NoteAvailable_text": "Cuba pasang permainan baru ini!",
+      "Fade_NoteAvailable_text": "Iklan House baru telah bersedia untuk dipaparkan"
+    },
+    {
+      "languageCode": "ja",
+      "NoteAvailable_text": "新しいハウス広告が表示可能です",
+      "Fade_NoteAvailable_text": "新しいハウス広告が表示可能です"
+    },
+    {
+      "languageCode": "ko",
+      "NoteAvailable_text": "새로운 하우스 광고가 표시 준비가 되었습니다",
+      "Fade_NoteAvailable_text": "새로운 하우스 광고가 표시 준비가 되었습니다"
+    },
+    {
+      "languageCode": "zh",
+      "NoteAvailable_text": "新的房屋广告已准备好显示",
+      "Fade_NoteAvailable_text": "新的房屋广告已准备好显示"
+    }
+  ]
+}
