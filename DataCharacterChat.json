@@ -1,0 +1,73 @@
+{
+    "DialogCharacters": [
+      {
+        "NameCharacter": "Character 1",
+        "IconUrl": "https://github.com/klarabefine/JsonDataQuiz/blob/main/Icon%20Dance1.png?raw=true",
+        "IsChatAds": false,
+        "GetChatDialogs": [
+          {
+            "anwser": "User dialog A1",
+            "question": "Bot dialog A1"
+          },
+          {
+            "anwser": "User dialog A11",
+            "question": "Bot dialog A11"
+          },
+          {
+            "anwser": "User dialog A111",
+            "question": "Bot dialog A111"
+          }
+        ]
+      },
+      {
+        "NameCharacter": "Character 2",
+        "IconUrl": "https://github.com/klarabefine/JsonDataQuiz/blob/main/Icon%20Dance1.png?raw=true",
+        "IsChatAds": true,
+        "GetChatDialogs": [
+          {
+            "anwser": "User dialog A2",
+            "question": "Bot dialog A2"
+          },
+          {
+            "anwser": "User dialog B22",
+            "question": "Bot dialog B22"
+          },
+          {
+            "anwser": "User dialog B222",
+            "question": "Bot dialog B222"
+          }
+        ]
+      },
+      {
+        "NameCharacter": "Character 3",
+        "IconUrl": "https://github.com/klarabefine/JsonDataQuiz/blob/main/Icon%20Dance1.png?raw=true",
+        "IsChatAds": true,
+        "GetChatDialogs": [
+          {
+            "anwser": "User dialog A3",
+            "question": "Bot dialog A3"
+          },
+          {
+            "anwser": "User dialog B33",
+            "question": "Bot dialog B33"
+          }
+        ]
+      },
+      {
+        "NameCharacter": "Character 4",
+        "IconUrl": "https://github.com/klarabefine/JsonDataQuiz/blob/main/Icon%20Dance1.png?raw=true",
+        "IsChatAds": true,
+        "GetChatDialogs": [
+          {
+            "anwser": "User dialog A4",
+            "question": "Bot dialog A4"
+          },
+          {
+            "anwser": "User dialog B44",
+            "question": "Bot dialog B44"
+          }
+        ]
+      }
+    ]
+  }
+  
